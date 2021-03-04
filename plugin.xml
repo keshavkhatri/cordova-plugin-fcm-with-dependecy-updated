@@ -123,7 +123,7 @@
                 <source url="https://github.com/CocoaPods/Specs.git"/>
 			</config>
 			<pods>
-				<pod name="Firebase/Messaging" spec="$IOS_FIREBASE_MESSAGING_VERSION"/>
+				<pod name="Firebase/Messaging" spec="~> 7.0.0"/>
 			</pods>
 		</podspec>
 	</platform>
